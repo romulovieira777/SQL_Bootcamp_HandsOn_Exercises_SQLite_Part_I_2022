@@ -1,0 +1,10 @@
+Basic knowledge of SQL and SQLite is required.
+
+
+📌RECOMMENDED LEARNING PATHS
+
+If you want to learn more about the recommended learning paths, please visit the link below:
+
+https://docs.google.com/document/d/1_hma_Q19C5PJzDpqedSQseknPnc-j00KuJk6OJej-n8/edit?usp=sharing
+
+Resources for this lecture
