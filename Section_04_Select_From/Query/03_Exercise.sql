@@ -1,4 +1,7 @@
 /*
+
+Exercise No. 04
+
 The SQL code that creates the table for this exercise is in the file create.sql.
 
 The Stock table is given:
