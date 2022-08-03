@@ -4,6 +4,7 @@ Exercise No. 03
 The SQL code that creates the table for this exercise is in the file create.sql.
 
 The following table is given:
+
     CREATE TABLE Stock (
         Id          INTEGER PRIMARY KEY
       , Ticker      TEXT    NOT NULL

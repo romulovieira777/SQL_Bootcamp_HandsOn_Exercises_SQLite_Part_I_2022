@@ -1,5 +1,5 @@
 /*
-Exercise No. 02
+Exercise No. 08
 
 The SQL code that creates the table for this exercise is in the file create.sql.
 
@@ -15,13 +15,13 @@ The following table is given:
       , EPS         REAL
     );
 
-Create a query that displays records for the following companies (Ticker column):
-    - 'TSLA'
-    - 'AMZN'
+Create a query that displays records for companies with a price between $ 100 and $ 300 (Price Column).
+
+Tip: Use the BETWEEN ...AND ... clause.
 */
 SELECT
     *
 FROM
     Stock
 WHERE
-    Ticker IN ('TSLA', 'AMZN');
+    Price BETWEEN 100 AND 300;

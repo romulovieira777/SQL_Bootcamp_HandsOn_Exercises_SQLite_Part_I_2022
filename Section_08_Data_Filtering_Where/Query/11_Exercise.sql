@@ -1,5 +1,5 @@
 /*
-Exercise No. 02
+Exercise No. 11
 
 The SQL code that creates the table for this exercise is in the file create.sql.
 
@@ -15,13 +15,11 @@ The following table is given:
       , EPS         REAL
     );
 
-Create a query that displays records for the following companies (Ticker column):
-    - 'TSLA'
-    - 'AMZN'
+Create a query that displays records for companies with a missing EPS value.
 */
 SELECT
     *
 FROM
     Stock
 WHERE
-    Ticker IN ('TSLA', 'AMZN');
+    EPS IS NULL;
