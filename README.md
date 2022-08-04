@@ -9,5 +9,6 @@
 - [Section 06 - Limit + Offset](https://github.com/romulovieira777/SQL_Bootcamp_HandsOn_Exercises_SQLite_Part_I_2022/tree/main/Section_06_Limit_Offset)
 - [Section 07 - Select Distinct](https://github.com/romulovieira777/SQL_Bootcamp_HandsOn_Exercises_SQLite_Part_I_2022/tree/main/Section_07_Select_Distinct)
 - [Section 08 - Data Filtering - Where](https://github.com/romulovieira777/SQL_Bootcamp_HandsOn_Exercises_SQLite_Part_I_2022/tree/main/Section_08_Data_Filtering_Where)
+- [Section 09 - Functions](https://github.com/romulovieira777/SQL_Bootcamp_HandsOn_Exercises_SQLite_Part_I_2022/tree/main/Section_09_Functions)
 
 Link to the course: [Udemy](https://www.udemy.com/course/sql-bootcamp-hands-on-exercises-sqlite-part-i/)
