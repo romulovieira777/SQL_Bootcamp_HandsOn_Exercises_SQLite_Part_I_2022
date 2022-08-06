@@ -11,5 +11,6 @@
 - [Section 08 - Data Filtering - Where](https://github.com/romulovieira777/SQL_Bootcamp_HandsOn_Exercises_SQLite_Part_I_2022/tree/main/Section_08_Data_Filtering_Where)
 - [Section 09 - Functions](https://github.com/romulovieira777/SQL_Bootcamp_HandsOn_Exercises_SQLite_Part_I_2022/tree/main/Section_09_Functions)
 - [Section 10 - Data Grouping - Group By](https://github.com/romulovieira777/SQL_Bootcamp_HandsOn_Exercises_SQLite_Part_I_2022/tree/main/Section_10_Data_Grouping_Group_By)
+- [Section 11 - Data Grouping - Group By + Having](https://github.com/romulovieira777/SQL_Bootcamp_HandsOn_Exercises_SQLite_Part_I_2022/tree/main/Section_11_Data_Grouping_Group_By_Having)
 
 Link to the course: [Udemy](https://www.udemy.com/course/sql-bootcamp-hands-on-exercises-sqlite-part-i/)
