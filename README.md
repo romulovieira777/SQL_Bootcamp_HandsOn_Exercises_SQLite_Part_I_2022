@@ -15,5 +15,6 @@
 - [Section 12 - Select Case](https://github.com/romulovieira777/SQL_Bootcamp_HandsOn_Exercises_SQLite_Part_I_2022/tree/main/Section_12_Select_Case)
 - [Section 13 - Subqueries](https://github.com/romulovieira777/SQL_Bootcamp_HandsOn_Exercises_SQLite_Part_I_2022/tree/main/Section_13_Subqueries)
 - [Section 14 - Joining Tables - Left Join](https://github.com/romulovieira777/SQL_Bootcamp_HandsOn_Exercises_SQLite_Part_I_2022/tree/main/Section_14_Joining_Tables_Left_Join)
+- [Section 15 - Joining Tables - Inner Join](https://github.com/romulovieira777/SQL_Bootcamp_HandsOn_Exercises_SQLite_Part_I_2022/tree/main/Section_15_Joining_Tables_Inner_Join)
 
 Link to the course: [Udemy](https://www.udemy.com/course/sql-bootcamp-hands-on-exercises-sqlite-part-i/)
