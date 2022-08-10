@@ -17,5 +17,6 @@
 - [Section 14 - Joining Tables - Left Join](https://github.com/romulovieira777/SQL_Bootcamp_HandsOn_Exercises_SQLite_Part_I_2022/tree/main/Section_14_Joining_Tables_Left_Join)
 - [Section 15 - Joining Tables - Inner Join](https://github.com/romulovieira777/SQL_Bootcamp_HandsOn_Exercises_SQLite_Part_I_2022/tree/main/Section_15_Joining_Tables_Inner_Join)
 - [Section 16 - Joining Tables - Union](https://github.com/romulovieira777/SQL_Bootcamp_HandsOn_Exercises_SQLite_Part_I_2022/tree/main/Section_16_Joining_Tables_Union)
+- [Section 17 - Joining Tables - Union All](https://github.com/romulovieira777/SQL_Bootcamp_HandsOn_Exercises_SQLite_Part_I_2022/tree/main/Section_17_Joining_Tables_Union_All)
 
 Link to the course: [Udemy](https://www.udemy.com/course/sql-bootcamp-hands-on-exercises-sqlite-part-i/)
