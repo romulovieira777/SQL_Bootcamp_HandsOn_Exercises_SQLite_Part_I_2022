@@ -18,5 +18,10 @@
 - [Section 15 - Joining Tables - Inner Join](https://github.com/romulovieira777/SQL_Bootcamp_HandsOn_Exercises_SQLite_Part_I_2022/tree/main/Section_15_Joining_Tables_Inner_Join)
 - [Section 16 - Joining Tables - Union](https://github.com/romulovieira777/SQL_Bootcamp_HandsOn_Exercises_SQLite_Part_I_2022/tree/main/Section_16_Joining_Tables_Union)
 - [Section 17 - Joining Tables - Union All](https://github.com/romulovieira777/SQL_Bootcamp_HandsOn_Exercises_SQLite_Part_I_2022/tree/main/Section_17_Joining_Tables_Union_All)
+- [Section 18 - Joining Tables - Except](https://github.com/romulovieira777/SQL_Bootcamp_HandsOn_Exercises_SQLite_Part_I_2022/tree/main/Section_18_Joining_Tables_Except)
+- [Section 19 - Joining Tables - Intersect](https://github.com/romulovieira777/SQL_Bootcamp_HandsOn_Exercises_SQLite_Part_I_2022/tree/main/Section_19_Joining_Tables_Intersect)
+- [Section 20 - Summary](https://github.com/romulovieira777/SQL_Bootcamp_HandsOn_Exercises_SQLite_Part_I_2022/tree/main/Section_20_Summary)
+- [Section 21 - Summary I](https://github.com/romulovieira777/SQL_Bootcamp_HandsOn_Exercises_SQLite_Part_I_2022/tree/main/Section_21_Summary_I)
+- [Section 22 - Summary II](https://github.com/romulovieira777/SQL_Bootcamp_HandsOn_Exercises_SQLite_Part_I_2022/tree/main/Section_22_Summary_II)
 
 Link to the course: [Udemy](https://www.udemy.com/course/sql-bootcamp-hands-on-exercises-sqlite-part-i/)
