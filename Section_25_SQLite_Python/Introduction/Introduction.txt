@@ -1,0 +1,3 @@
+Database for exercises
+
+The database northwind.db is attached in the resources for this lesson.
