@@ -9,6 +9,9 @@ Then create a Curso object and execute the following SQL query to the database:
 
 Using the appropriate method, print the first row from the above query to the console. Finally, close the database
 connection.
+
+Expected result:
+    (1, 'Beverages', 'Soft drinks, coffees, teas, beers, and ales')
 """
 import sqlite3
 
